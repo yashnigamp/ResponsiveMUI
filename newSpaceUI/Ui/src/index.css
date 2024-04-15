@@ -1,0 +1,11 @@
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiSelect-icon.MuiSelect-iconStandard.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+  color: white;
+}
+body {
+  margin: 0;
+}
+.chart-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
